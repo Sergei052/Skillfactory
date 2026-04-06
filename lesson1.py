@@ -68,7 +68,7 @@ while True:
         print_board()
         print("Поздравляем у вас ничья!")
         break
-switch_pl()
+    switch_pl()
 
 
 
